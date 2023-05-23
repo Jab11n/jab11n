@@ -2,5 +2,5 @@
 - 👀 I’m interested in ... Python, Javascript
 - 🌱 I’m currently learning ... HTML, CSS, JS, Python
 - 💞️ I’m looking to collaborate on ... The Scratch page on my website. Possibly modify an old alpha version to make a custom version?
-- 📢 Check out my websites! [Jabin's Tech](https://jabinstech.net) / [Software Link Library](https://softwarelinklibrary.github.io/)
+- 📢 Check out my websites! [Jabin's Tech](https://jabinstech.net) / [Software Link Library](https://softwarelinklibrary.github.io/) / [jabinstech.github.io](https://jabinstech.github.io/) [is.wasteof.fork](https://jabinstech.github.io/is.wasteof.money)
 - 📫 How to reach me ... Contact me on my Scratch Profile (/users/-gr) or with the email on my website.
