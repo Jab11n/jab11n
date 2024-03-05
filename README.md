@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Jabin.
 - 👀 I’m interested in Python, Javascript, C#
 - 🌱 I’m currently learning Java
-- 🧠 I know **HTML, CSS, Java, Scratch**
-- 💞️ I’m looking to collaborate on anything cool related to Scratch or any basic tool for the Internet.
+- 🧠 I know **HTML, CSS, Java, Scratch** (scratch 💀)
+- 💞️ I’m looking to collaborate on anything cool related to scratch, discord, or minecraft. Or a web app.
 - 📢 Check out my websites! [Jabin's Tech](https://jabinstech.net) / [Software Link Library](https://softwarelinklibrary.github.io/) / [jabinstech.github.io](https://jabinstech.github.io/) / [is.wasteof.fork](https://jabinstech.github.io/is.wasteof.fork) / [imtwsapio](https://imadethiswebsiteandputit.online)
 - ‼️ **Contact me on my new [discussions](https://github.com/jabinstech/jabinstech/discussions/categories/general) page!**
 ### Cool Stuff
