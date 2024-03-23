@@ -7,9 +7,11 @@
 - ‼️ **Contact me on my new [discussions](https://github.com/jabinstech/jabinstech/discussions/categories/general) page!**
 ### Cool Stuff
 - 🤖 [Jot3](https://github.com/jabinstech/Jot3)
-The ultimate free-forever self-hostable open sourced Discord bot
+The ultimate free-forever self-hostable open sourced Discord bot  
 - 🔥 [TurboWarp Mirror](https://github.com/jabinstech/mirror) - [Website](https://tw.imadethiswebsiteandputit.online/)
-Instructions to create your own mirror can be found in the README of the repository.
+Instructions to create your own mirror can be found in the README of the repository.  
 - 📦 [TurboWarp Packager Mirror](https://github.com/jabinstech/packager-mirror) - [Website](https://packager.tw.imadethiswebsiteandputit.online/)
-Made the same way I made the TW mirror.
+Made the same way I made the TW mirror.  
 - 💯 More awesome stuff coming soon!
+
+[<img alt="Discord" src="https://img.shields.io/discord/972126416646860850?logo=discord&logoColor=white&label=capybara%20fan%20club">](https://discord.gg/GKGRS7zz2C) 
