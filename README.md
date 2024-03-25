@@ -15,3 +15,4 @@ Made the same way I made the TW mirror.
 - 💯 More awesome stuff coming soon!
 
 [<img alt="Discord" src="https://img.shields.io/discord/972126416646860850?logo=discord&logoColor=white&label=capybara%20fan%20club">](https://discord.gg/GKGRS7zz2C) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1221857011378163712)](https://discord.com/users/1221857011378163712)
