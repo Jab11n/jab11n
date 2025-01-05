@@ -2,14 +2,13 @@
 - 👀 I’m interested in Python, JavaScript
 - 🌱 I’m currently learning Java, Python
 - 🧠 I know **HTML, CSS, Java, Python, Scratch**
-- 💞️ I’m looking to collaborate on anything cool related to Scratch or Discord. Or a web app.
-- 📢 Check out my websites! [jabin.is-a.dev](https://jabin.is-a.dev) / [Software Link Library](https://softwarelinklibrary.github.io/) / [jabinstech.github.io](https://jabinstech.github.io/) / [is.wasteof.fork](https://jabinstech.github.io/is.wasteof.fork)
+- 📢 Check out my websites! [jabin.is-a.dev](https://jabin.is-a.dev) / [hatch.lol](https://hatch.lol) / [Software Link Library](https://softwarelinklibrary.github.io/)
 - ‼️ **Contact me on my  [discussions](https://github.com/jabinstech/jabinstech/discussions/categories/general) page!** (Or email jabinstech dot net at gmail dot com, but I might not see that)
 ### Cool Stuff
-- 🤖 [CapyPic](https://capy.jabinstech.net/)
+- 🐣 **[Hatch](https://github.com/hatchdotlol)**  
+A new social website for sharing your Scratch and TurboWarp projects!
+- 🤖 **[CapyPic](https://jabin.is-a.dev/capypic)**  
 Capybara Pictures - in Discord
-- 🐈 [ScratchInDiscord](https://sid.jabinstech.net/)
-Scratch info as a Discord bot
+- 🐈 **ScratchInDiscord**  
+Scratch info as a Discord bot (link coming soon)
 - 💯 More awesome stuff coming soon!
-### Jabintech.net is no longer owned by me.
-I did not renew it. Sorry for any inconvenience.
