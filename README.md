@@ -10,4 +10,6 @@ A new social website for sharing your Scratch and TurboWarp projects!
 Capybara Pictures - in Discord
 - 🐈 **ScratchInDiscord**  
 Scratch info as a Discord bot (link coming soon)
-- 💯 More awesome stuff coming soon!
+- 💯 More awesome stuff coming soon!  
+
+![skill icons](https://skillicons.dev/icons?i=discord,python,html,css,java,vscode,windows,ubuntu,raspberrypi,github,git,cloudflare&theme=dark)
