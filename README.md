@@ -8,8 +8,8 @@
 A new social website for sharing your Scratch and TurboWarp projects!
 - 🤖 **[CapyPic](https://jabin.is-a.dev/capypic)**  
 Capybara Pictures - in Discord
-- 🐈 **ScratchInDiscord**  
-Scratch info as a Discord bot (link coming soon)
+- 🖱 **[jabin.is-a.dev](https://jabin.is-a.dev)**  
+Files for my personal website  
 - 💯 More awesome stuff coming soon!  
 
 ![skill icons](https://skillicons.dev/icons?i=discord,python,html,css,java,vscode,windows,ubuntu,raspberrypi,github,git,cloudflare&theme=dark)
