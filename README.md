@@ -1,5 +1,6 @@
 ##  Hi, I’m Jabin.
 -  I know **HTML, CSS, Java, Python, Scratch**
+-  I'm currently learning **JavaScript**
 -  Check out my websites! [jabin.is-a.dev](https://jabin.is-a.dev) / [hatch.lol](https://hatch.lol) / [Software Link Library](https://softwarelinklibrary.github.io/) 
 ### Cool Stuff
 -  **[Hatch](https://github.com/hatchdotlol)**  
