@@ -10,4 +10,4 @@ Capybara Pictures - in Discord
 Files for my personal website  
 -  More awesome stuff coming soon!  
 
-![skill icons](https://skillicons.dev/icons?i=discord,python,html,css,java,vscode,windows,ubuntu,raspberrypi,github,git,cloudflare&theme=dark)
+![skill icons](https://skillicons.dev/icons?i=discord,python,html,css,js,java,vscode,windows,ubuntu,raspberrypi,github,git,cloudflare&theme=dark)
