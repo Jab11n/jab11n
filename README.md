@@ -11,4 +11,4 @@ Capybara Pictures - in Discord
 Files for my personal website  
 -  More awesome stuff coming soon!  
 
-![skill icons](https://skillicons.dev/icons?i=python,html,css,js,python,java,vscode,windows,ubuntu,raspberrypi,github,git,cloudflare,discord&theme=dark)
+![skill icons](https://skillicons.dev/icons?i=html,css,js,python,java,vscode,windows,ubuntu,raspberrypi,github,git,cloudflare,discord&theme=dark)
