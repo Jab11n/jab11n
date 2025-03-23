@@ -11,4 +11,6 @@ Capybara Pictures - in Discord
 Files for my personal website  
 -  More awesome stuff coming soon!  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jab11n&theme=tokyonight)
+
 ![skill icons](https://skillicons.dev/icons?i=html,css,js,python,java,vscode,windows,ubuntu,raspberrypi,github,git,cloudflare,discord&theme=dark)
