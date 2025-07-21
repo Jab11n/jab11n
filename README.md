@@ -1,15 +1,6 @@
 ##  Hi, I’m Jabin.
--  I know **HTML, CSS, JavaScript, Java, Python, Scratch**
--  I'm currently learning **JavaScript**
--  Check out my websites! [jabin.is-a.dev](https://jabin.is-a.dev) / [hatch.lol](https://hatch.lol)
-### Cool Stuff
--  **[Hatch](https://github.com/hatchdotlol)**  
-A new social website for sharing your Scratch and TurboWarp projects!
--  **[CapyPic](https://jabin.is-a.dev/capypic)**  
-Capybara Pictures - in Discord
--  **[jabin.is-a.dev](https://jabin.is-a.dev)**  
-Files for my personal website  
--  More awesome stuff coming soon!  
+I do some web development and occasionally a _tiny_ bit of backend stuff. I'm also the founder of [hatch](https://github.com/hatchdotlol).  
+You can learn more about me and see all my projects on [my website](https://jab11n.tech).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jab11n&layout=donut&theme=tokyonight)
 
