@@ -1,7 +1,7 @@
 ##  Hi, I’m Jabin.  
 I mainly do web development and a tiny bit of backend stuff. I also occasionally program Discord bots and little personal projects.
 ### Fun Facts
-- i use Kubuntu btw.
+- i use linux btw.
 - i am kind of a lazy programmer
 - i am learning more things.
 ### Projects
