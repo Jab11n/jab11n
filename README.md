@@ -1,4 +1,5 @@
 ##  Hi, I’m Jabin.  
+I am a male teenager from the United States.  
 I mainly do web development and a tiny bit of backend stuff. I also occasionally program Discord bots and little personal projects.
 ### Fun Facts
 - I use Linux as my main operating system, particularly Kubuntu or Fedora KDE.
