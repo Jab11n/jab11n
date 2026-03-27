@@ -2,7 +2,7 @@
 I am a male teenager from the United States.  
 I mainly do web development and a tiny bit of backend stuff. I also occasionally program Discord bots and little personal projects.
 ### Fun Facts
-- I use Linux as my main operating system, particularly Kubuntu or Fedora KDE.
+- I use Linux as my main operating system. I bounce around distros a bit, but I usually stick to [Pika OS](https://pika-os.com), Kubuntu, or Fedora KDE.
 - I am working on learning new programming languages and frameworks!
 - My profile picture is from Disney's MMO game Club Penguin, which shut down in 2017.
 - I know Python, JavaScript, Java, and HTML/CSS.
@@ -11,6 +11,7 @@ I mainly do web development and a tiny bit of backend stuff. I also occasionally
 I have a ton of unfinished projects I started ambitiously or have abandoned. I may come back to some, others might sit and rot forever.  
 - Hatch (in development) [Website](https://hatch.lol) [Discord](https://discord.gg/gkDeRhNAAw) [GitHub Org](https://github.com/hatchdotlol)
 - Working on a link shortening service!
+- Flashcard website
 - ???
 ### Social Media (and other sites)
 I have some of these
