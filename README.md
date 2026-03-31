@@ -20,4 +20,6 @@ I have some of these
 - [YouTube](https://youtube.com/@jab11n) (I don't post anything there)
 - I also have Twitter and Bluesky, but I rarely use them.
 - Check out my website: [jab11n.tech](https://jab11n.tech)
-- email me?? hello[at]jab11n[dot]tech
+- email me?? hello[at]jab11n[dot]tech  
+
+![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=14990&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark)
