@@ -5,7 +5,7 @@ I mainly do web development and a tiny bit of backend stuff. I also occasionally
 - I use Linux as my main operating system. I bounce around distros a bit, but I usually stick to [Pika OS](https://pika-os.com), Kubuntu, or Fedora KDE.
 - I am working on learning new programming languages and frameworks!
 - My profile picture is from Disney's MMO game Club Penguin, which shut down in 2017.
-- I know Python, JavaScript, Java, and HTML/CSS.
+- I know Python, JavaScript, TypeScript, Java, and HTML/CSS.
 - Not so fun fact (for me at least): I have a lot of unfinished projects. 😕
 ### Projects
 I have a ton of unfinished projects I started ambitiously or have abandoned. I may come back to some, others might sit and rot forever.  
